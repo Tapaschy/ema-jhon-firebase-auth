@@ -6,6 +6,9 @@
     align-items: center;
     padding-left: 100px;
     padding-right: 100px;
+    position: sticky;
+    top: 0;
+    z-index: 1;
 }
 
 nav.header a{
